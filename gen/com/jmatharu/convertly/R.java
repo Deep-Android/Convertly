@@ -34,20 +34,36 @@ public final class R {
         public static final int torque_converted=0x7f020009;
     }
     public static final class id {
-        public static final int action_settings=0x7f08000d;
-        public static final int imageButton1=0x7f08000c;
+        public static final int action_settings=0x7f08001d;
+        public static final int b_=0x7f080015;
+        public static final int b0=0x7f080016;
+        public static final int b1=0x7f080009;
+        public static final int b2=0x7f08000a;
+        public static final int b3=0x7f08000b;
+        public static final int b4=0x7f08000d;
+        public static final int b5=0x7f08000e;
+        public static final int b6=0x7f08000f;
+        public static final int b7=0x7f080011;
+        public static final int b8=0x7f080012;
+        public static final int b9=0x7f080013;
+        public static final int bplusminus=0x7f080017;
         public static final int imageView1=0x7f080000;
-        public static final int imageView2=0x7f080002;
-        public static final int imageView3=0x7f080006;
-        public static final int imageView4=0x7f080008;
-        public static final int imageView5=0x7f080009;
-        public static final int imageView6=0x7f08000a;
+        public static final int imageView2=0x7f080001;
+        public static final int imageView3=0x7f080019;
+        public static final int imageView4=0x7f08001a;
+        public static final int imageView5=0x7f08001b;
+        public static final int imageView6=0x7f08001c;
         public static final int scrollView1=0x7f080003;
-        public static final int tableLayout1=0x7f080004;
-        public static final int tableRow1=0x7f080005;
-        public static final int tableRow2=0x7f080007;
-        public static final int tableRow3=0x7f08000b;
-        public static final int textView1=0x7f080001;
+        public static final int tableLayout1=0x7f080018;
+        public static final int tableRow1=0x7f080008;
+        public static final int tableRow2=0x7f08000c;
+        public static final int tableRow3=0x7f080010;
+        public static final int tableRow4=0x7f080014;
+        public static final int txtEnter1=0x7f080004;
+        public static final int txtEnter2=0x7f080006;
+        public static final int txtName=0x7f080002;
+        public static final int txtSelector1=0x7f080005;
+        public static final int txtSelector2=0x7f080007;
     }
     public static final class layout {
         public static final int activity_angle=0x7f030000;

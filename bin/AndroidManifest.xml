@@ -26,6 +26,7 @@
         </activity>
         <activity
             android:name=".Angle"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
             android:label="@string/title_activity_angle" >
         </activity>
